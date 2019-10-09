@@ -53,9 +53,15 @@ h1, h2, h3, h4, h5, h6 {
 	display:none;
 }
 
+.img-responsive{
+	margin-top: 77px;
+	margin-left: 20px;
+}
+
 #one h2, #one p {
 	text-align: right;
 }
+
 
  #one a, #three a {
 	float: right;
